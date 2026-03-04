@@ -87,3 +87,21 @@ This section extends simulations to hierarchical and multilevel modeling, where 
 ✔ Suitable for students, researchers, and instructors
 
 ✔ Bridges theory with computational practice
+
+
+### Tools & Libraries
+The simulations primarily use R along with common statistical libraries such as:
+* stats
+* car
+* lme4
+* nlme
+* ggplot2
+
+### Learning Outcomes
+By working through this repository, you will be able to:
+* Generate simulated datasets under controlled assumptions
+* Understand sampling distributions empirically
+* Evaluate estimator performance using repeated simulation
+* Compare fixed and mixed effect modeling frameworks
+* Interpret interaction effects correctly
+* Apply hierarchical modeling concepts using R
