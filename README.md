@@ -1,5 +1,6 @@
 <img width="1536" height="1024" alt="Simulation of Statistical Models Using R" src="https://github.com/user-attachments/assets/cae28e2b-1584-42a1-8068-27da592a073b" />
 
+
 Simulation of Statistical Models Using R: Covers fixed and mixed effect models including t-test, ANOVA, regression, ANCOVA, factorial ANOVA, random intercept and slope models, correlated and uncorrelated mixed models, and nested ANOVA. Demonstrates model behavior and inference through simulation in R.
 
 This repository presents a comprehensive and practical guide to Simulation of Statistical Models Using R, focusing on both fixed effect and mixed effect modeling frameworks. The primary objective of this project is to demonstrate how statistical models can be generated, analyzed, and validated through simulation techniques in R.
