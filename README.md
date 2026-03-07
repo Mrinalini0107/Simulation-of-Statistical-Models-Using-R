@@ -1,3 +1,8 @@
+> **Author:** Ms. Mrunalini (Data Science Trainer)
+> 📧 mrunalini0107@gmail.com | 📍 Mumbai – 400095
+
+---
+
 <img width="1536" height="1024" alt="Simulation of Statistical Models Using R" src="https://github.com/user-attachments/assets/cae28e2b-1584-42a1-8068-27da592a073b" />
 
 
